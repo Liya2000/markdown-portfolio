@@ -1,3 +1,3 @@
-##Hi everyone 
+## Hi everyone 
 ### I am Liya Philipose
-#### Web designer and developer ,AI/ML enthusiastic 
+#### Web designer and developer ,AI/ML enthusiast 
