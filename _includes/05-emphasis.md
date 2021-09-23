@@ -16,6 +16,8 @@ __Critical Thinking__
 
 **POGRAMMING LANGUAGES**
 
+__C__
+
 __Python__
 
 __JAVA__
@@ -25,4 +27,10 @@ __HTML5__
 __CSS3__
 
 __JavaScript__
+
+**OTHER FIELD OF INTEREST**
+
+__WEBDEVELOPMENT__
+__WEB DESIGNING__
+__AI-ML__
 
