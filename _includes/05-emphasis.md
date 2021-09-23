@@ -1,12 +1,12 @@
-**ATTRIBUTES**
+**ATTRIBUTES** :cowboy_hat_face:
 
-__Enjoy every small happiness in life__
+__Enjoy every small happiness in life__ 
 
-__Helping people in need__
+__Helping people in need__ 
 
-__Highly interested in creative works__
+__Highly interested in creative works__ 
 
-**SKILLS**
+**SKILLS**:sunglasses:
 
 __Teamsperson__
 
@@ -14,7 +14,7 @@ __Problem Solving__
 
 __Critical Thinking__
 
-**POGRAMMING LANGUAGES**
+**POGRAMMING LANGUAGES** :woman_technologist:
 
 __C__
 
@@ -28,7 +28,7 @@ __CSS3__
 
 __JavaScript__
 
-**OTHER FIELD OF INTEREST**
+**OTHER FIELD OF INTEREST** :thought_balloon:
 
 __WEBDEVELOPMENT__
 
